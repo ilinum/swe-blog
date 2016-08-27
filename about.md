@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Fourth-year CS Student and Developer
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ilinskiy.sv@gmail.com](mailto:ilinskiy.sv@gmail.com)
